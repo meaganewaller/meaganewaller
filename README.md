@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [online political polling software](civiqs.com)
 
-- 🌱 I’m currently learning **frontend developer**
+- 🌱 I’m currently learning **frontend development**
 
 - 📝 I regulary write articles on [meaganwaller.com](meaganwaller.com)
 
