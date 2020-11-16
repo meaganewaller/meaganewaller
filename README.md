@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 📝 I regulary write articles on [meaganwaller.com](meaganwaller.com)
+- 📝 I write articles on [meaganwaller.com](http://meaganwaller.com)
 
 - 💬 Ask me about **ruby, rails, testing**
 
