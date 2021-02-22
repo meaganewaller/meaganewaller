@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meaganewaller" alt="meaganewaller" /> </p>
 
-- 🔭 I’m currently working on [online political polling software](http://civiqs.com)
+- 🔭 I’m currently working as a Senior Software Consultant at [Test Double](http://testdouble.com)
 
 - 🌱 I’m currently learning **frontend development**
 
