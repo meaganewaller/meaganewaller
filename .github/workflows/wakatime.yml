@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Wakatime - Code Stats - Update
 on:
   workflow_dispatch:
     schedule:
