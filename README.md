@@ -87,6 +87,8 @@
 
 ## ⚡ Github Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/meaganewaller/meaganwaller.com/pull/5) in [meaganewaller/meaganwaller.com](https://github.com/meaganewaller/meaganwaller.com)
+2. 💪 Opened PR [#5](https://github.com/meaganewaller/meaganwaller.com/pull/5) in [meaganewaller/meaganwaller.com](https://github.com/meaganewaller/meaganwaller.com)
 <!--END_SECTION:activity-->
 
 ## 📖 Latest Blog Posts
