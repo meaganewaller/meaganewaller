@@ -1,11 +1,8 @@
 [![Visits Badge](https://badges.pufler.dev/visits/meaganewaller/meaganewaller)](https://badges.pufler.dev)
 
 **i've been spending time on these:**
+
 <!--START_SECTION:waka-->
-
-```txt
-```
-
 <!--END_SECTION:waka-->
 
 **my github stats:**
