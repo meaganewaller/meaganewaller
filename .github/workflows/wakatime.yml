@@ -1,11 +1,14 @@
-name: Wakatime - Code Stats - Update
+name: Update Wakatime Stats in README
+
 on:
   workflow_dispatch:
-    schedule:
-      - cron: "0 0 * * *"
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Waka README Dev Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
