@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs 29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Other        6 hrs 18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-TypeScript   4 hrs 47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Cheetah      4 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-TOML         3 hrs 59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Other        5 hrs 48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Cheetah      4 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+TOML         4 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+TypeScript   3 hrs 35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+JSON         2 hrs 58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
 ```
 
 <!--END_SECTION:waka-->
